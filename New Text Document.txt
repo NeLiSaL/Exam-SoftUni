@@ -1,0 +1,3 @@
+second participant
+color:yellow
+name: Patsy
